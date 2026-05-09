@@ -14,7 +14,7 @@ export const copy = {
     navIds: ["studio", "artysci", "style", "portfolio", "cennik", "kontakt"],
     langLabel: "Język",
     heroKicker: "Premium tattoo atelier / Warszawa",
-    heroTitle: "Tatuaże z ciemnym charakterem i precyzją galerii sztuki.",
+    heroTitle: "Tatuaże z charakterem i precyzją.",
     heroText:
       "NOIR INK Studio łączy odważny underground z eleganckim rzemiosłem: autorskie projekty, bezpieczny proces i spokojna praca jeden na jeden.",
     book: "Umów konsultację",
@@ -55,7 +55,7 @@ export const copy = {
     navIds: ["studio", "artysci", "style", "portfolio", "cennik", "kontakt"],
     langLabel: "Language",
     heroKicker: "Premium tattoo atelier / Warsaw",
-    heroTitle: "Tattoos with a dark edge and gallery-grade precision.",
+    heroTitle: "Tattoos with edge and precision.",
     heroText:
       "NOIR INK Studio blends bold underground energy with elegant craft: custom design, a safe process and calm one-to-one sessions.",
     book: "Book consultation",
